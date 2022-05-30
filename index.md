@@ -38,8 +38,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script> 
-<script src="https://www.skulpt.org/js/skulpt.min.js" type="text/javascript"></script> 
-<script src="https://www.skulpt.org/js/skulpt-stdlib.js" type="text/javascript"></script> 
+<script src="https://cdn.jsdelivr.net/npm/skulpt@1.2.0/dist/skulpt.min.js" type="text/javascript"></script> 
+<script src="https://cdn.jsdelivr.net/npm/skulpt@1.2.0/dist/skulpt-stdlib.js" type="text/javascript"></script> 
 
 <script type="text/javascript"> 
 // output functions are configurable.  This one just appends some text
