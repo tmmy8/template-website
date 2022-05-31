@@ -12,3 +12,5 @@ In order to create your own website using this template
 The [Jekyll documentation](https://jekyllrb.com/docs/) will tell you how to change themes and colours.
 
 This short tutorial on [github markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) will teach you how to write new content, e.g. to add pictures.
+
+This theme is called architect, you can find configuration options for it [here](https://github.com/pages-themes/architect)
